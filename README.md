@@ -10,4 +10,4 @@ A modular, high-performance C++ template engine designed to animate and visualiz
 ## Directory Structure
 ├── src/
 │   └── main.cpp      # Core JSON serialization & tree logic
-└── README.md
+└─ README.md
